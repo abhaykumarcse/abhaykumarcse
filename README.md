@@ -116,10 +116,12 @@
 
 - *Content*: Coding videos, tech tutorials, shorts & more
 - *Subscribers*: Growing tech community
-- *Recent Uploads*:  
-  - ✔ DSA Series – Arrays and Strings  
-  - ✔ Machine Learning Mini Projects  
-  - ✔ Portfolio Website Tutorials
+- *Recent Uploads*:
+- 
+ 1. Passionate content creator with a target to reach 100K subscribers. 🎯
+ 2. Sharing videos on mobile photography, tech updates, gaming, and tips/tricks.
+ 3. Produced entirely with a Poco M2 Pro smartphone for great quality.
+ 4. Explore mobile testing, unboxing, and the latest tech insights. 📱🎥
 
 ---
 
