@@ -33,6 +33,33 @@
 - 💼 Completed internship with *@IBMSkillsBuild*
 
 ---
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <a href="https://docs.oracle.com/javase/8/docs/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="https://www.python.org/doc/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://reactjs.org/docs/getting-started.html">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://code.visualstudio.com/docs">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  </a>
+</p>
+
+---
 
 ### 📈 LeetCode Dashboard
 
@@ -67,33 +94,6 @@
 
 ---
 
-### 🧰 Tech Toolbox
-
-<p align="center">
-  <a href="https://docs.oracle.com/javase/8/docs/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
-  </a>
-  <a href="https://www.python.org/doc/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://dev.mysql.com/doc/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="https://reactjs.org/docs/getting-started.html">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  </a>
-  <a href="https://nodejs.org/en/docs/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://www.mongodb.com/docs/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-  <a href="https://code.visualstudio.com/docs">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  </a>
-</p>
-
----
 
 ### 🏆 Achievements & Certifications
 
