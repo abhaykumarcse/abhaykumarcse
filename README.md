@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abhay Kumar! 👋</h1>
+<h1 align="center">Hi there, I'm Abhay Kumar  👋</h1>
 
 <p align="center">
   <b>Java DSA Enthusiast | B.Tech CSE Student | MERN Stack Developer | Data Analytics Explorer</b><br>
