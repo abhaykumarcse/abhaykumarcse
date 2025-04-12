@@ -11,7 +11,7 @@
   <a href="mailto:abhaykumarnokha321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/abhaykumarcse">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://leetcode.com/u/premnagarrohtas456_/">
@@ -132,7 +132,7 @@
   <a href="mailto:abhaykumarnokha321@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" width="30px" alt="Gmail"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/abhaykumarcse">
     <img src="https://img.icons8.com/ios-filled/50/github.png" width="30px" alt="GitHub"/>
   </a>
   <a href="https://youtube.com/@goldenperfect0?si=iNHqiXJWHEE7JIhK">
