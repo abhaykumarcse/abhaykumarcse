@@ -104,16 +104,13 @@
 
 ---
 
-### 🎥 YouTube Channel
+### 🎥 YouTube Channel [GoldenPerfect](https://youtube.com/@goldenperfect0?si=iNHqiXJWHEE7JIhK)
 
 <p align="center">
   <a href="https://youtube.com/@goldenperfect0?si=iNHqiXJWHEE7JIhK">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
 </p>
-
-## 🎬 YouTube Dashboard - [GoldenPerfect](https://youtube.com/@goldenperfect0?si=iNHqiXJWHEE7JIhK)
-
 > Passionate content creator with a target to reach **100K subscribers**! 🎯
 
 📱 **Channel Focus:**
