@@ -28,7 +28,7 @@
 
 - 🎓 *Computer Science and Engineering* from *GJU S&T, Hisar* (2023–2026)  
 - 🛠 *Ex-Mechanical Engineering* background turned passionate coder  
-- 👨‍💻 Solved *120+ DSA problems* on [LeetCode](https://leetcode.com/u/premnagarrohtas456_/)&nbsp;|&nbsp;[GeeksforGeeks](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
+- 👨‍💻 Solved *300+ DSA problems* on [LeetCode](https://leetcode.com/u/premnagarrohtas456_/)&nbsp;|&nbsp;[GeeksforGeeks](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
 - 💡 Skilled in *Java, **Python, **Machine Learning, **SQL, and **Data Analytics*
 - 💼 Completed internship with *@IBMSkillsBuild*
 
